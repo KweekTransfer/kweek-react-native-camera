@@ -1,7 +1,7 @@
 {
-  "name": "react-native-camera",
+  "name": "kweek-react-native-camera",
   "description": "A Camera component for React Native. Also reads barcodes.",
-  "version": "4.2.1",
+  "version": "4.2.3",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
   "collective": {
     "type": "opencollective",
@@ -39,7 +39,7 @@
     "react-native": "0.63.2",
     "semantic-release": "^17.1.1"
   },
-  "homepage": "https://github.com/react-native-community/react-native-camera",
+  "homepage": "https://github.com/logboi1/kweek-react-native-camera",
   "keywords": [
     "barcode",
     "camera",
