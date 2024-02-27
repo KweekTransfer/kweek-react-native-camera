@@ -13,7 +13,7 @@ Supports:
 ### Example import
 
 ```jsx
-import { RNCamera, FaceDetector } from 'react-native-camera';
+import { RNCamera, FaceDetector } from 'kweek-react-native-camera';
 ```
 
 #### How to use master branch?
